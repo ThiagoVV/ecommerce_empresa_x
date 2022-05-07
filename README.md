@@ -5,6 +5,12 @@ Este é um **e-commerce** para a *empresa X*, desenvolvido em PHP e MySQL.
 
 _Checkout, **Tela de produto**, Catálogo, Home com banner_
 
+## Links interessantes:
+
+[Google](https://www.google.com)
+
+https://github.com/ThiagoVV
+
 ### Linguagens do Projeto:
 * HTML
 * CSS
