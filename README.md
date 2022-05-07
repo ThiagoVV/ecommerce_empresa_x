@@ -30,6 +30,7 @@ Contribuidor: https://github.com/ThiagoVV
 
 ![Logo do meu Linkedin](img/Desktop%20-%201.jpg)
 
+[![Logo Linkedin](img/Desktop%20-%201.jpg)](https://github.com/ThiagoVV)
 ### Imagem Externa
 
 ![Logo do Linkedin](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmarcas-logos.net%2Fwp-content%2Fuploads%2F2020%2F01%2FLinkedIn-Logo-1.png&imgrefurl=https%3A%2F%2Fmarcas-logos.net%2Flinkedin-logo%2F&tbnid=8qbHBlYJ_lyc9M&vet=12ahUKEwieqOPclcz3AhVSupUCHRO-Be4QMygBegUIARC9AQ..i&docid=TVdlULtxXfvPjM&w=3840&h=2400&q=logo%20linkedin&ved=2ahUKEwieqOPclcz3AhVSupUCHRO-Be4QMygBegUIARC9AQ)
