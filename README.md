@@ -15,6 +15,9 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 ### Funcionalidades a Desenvolver:
 
 1. Área de membros
+    1. Login Diferente
+    2. Desconto Especial
+    3. CSS Diferente
 2. Integração com outros setores
 3. Separação de entregas
 
