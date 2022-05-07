@@ -9,7 +9,7 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 
 [Google](https://www.google.com)
 
-https://github.com/ThiagoVV
+Contribuidor: https://github.com/ThiagoVV
 
 ### Linguagens do Projeto:
 * HTML
